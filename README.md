@@ -14,5 +14,4 @@ Hola, soy **Iván Bustamante** y te voy a explicar porque el gimnasio te hace es
 3. Estiramientos finales para evitar lesiones y así recuperarnos en menor tiempo.
 
 Si quieres saber más sobre la **alimentación en el gimnasio**, haz clic aquí:
-
 [Saber más](pag2.md)
