@@ -5,6 +5,7 @@ La alimentación es una parte **esencial** del progreso en el gimnasio. No solo 
 * -Comer suficiente proteína para reparar los músculos.
 * -Incluir carbohidratos para tener energía.
 * -Beber mucha agua y evitar azúcares añadidos.
+* Si no llegas a tus requerimientos diarios, puedes ayudarte de suplementación(nunca sustituirla).
 
 >“No puedes compensar una mala dieta con ejercicio.”
 
@@ -12,5 +13,9 @@ La alimentación es una parte **esencial** del progreso en el gimnasio. No solo 
 * Desayuno: avena con fruta y yogur.
 * Comida: pollo, arroz y verduras.
 * Cena: tortilla de claras y ensalada.
+
+Si quieres saber más de **suplementación**, click aquí:
+[Saber más](sup.md)
+
 
 [Volver a la página principal](README.md)
