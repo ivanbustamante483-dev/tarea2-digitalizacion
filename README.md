@@ -15,4 +15,4 @@ Hola, soy **Iván Bustamante** y te voy a explicar porque el gimnasio te hace es
 
 Si quieres saber más sobre la **alimentación en el gimnasio**, haz clic aquí:
 
-[Texto del enlace](nombre-del-archivo.md)
+[Saber más](pag2.md)
